@@ -47,23 +47,23 @@ Biological Data:
 
 
 # Assignment Links Colabs
-A) <br>
+A) &nbsp;**K_Means** &nbsp; https://colab.research.google.com/drive/1nRTmRlK9fZErkeFCoUrSOiKSZVM8uX3E?usp=drive_link<br>
 <br>
-B) <br>
+B) &nbsp;**Hierarchical** &nbsp; https://colab.research.google.com/drive/1tw_uVo8nKQ4fyhHlkjg3k32shZGeqE-R?usp=sharing<br>
 <br>
-C) <br>
+C) &nbsp;**Guassian** &nbsp; https://colab.research.google.com/drive/1erHyqLgO1XqHoUVXoz2YlFlBPHrVTc8b?usp=sharing<br>
 <br>
-D) <br>
+D) &nbsp;**DB Scan** &nbsp;https://colab.research.google.com/drive/1K_b-V_dhKpXJwuX5A5dfUpWto84JzUSB?usp=sharing<br>
 <br>
-E) <br>
+E) &nbsp; **Anomoly Detetion** &nbsp; https://colab.research.google.com/drive/1zJwgh1YSNtl_J0HGtOFdUd2nFkmTJQGz?usp=sharing <br>
 <br>
-F) <br> 
+F) &nbsp; **Time Series** &nbsp; https://colab.research.google.com/drive/1fdb-bI7Rrc2L1VhFKaVeUISfQDL8fbnS?usp=sharing <br> 
 <br>
-G) <br>
+G) &nbsp; **LLM Embeddings**&nbsp; https://colab.research.google.com/drive/1kdnRmeTI1YxL8uyM96UkkbJQB7EBSKJ3?usp=sharing<br>
 <br>
-H) <br>
+H) &nbsp; **Image Binding Example** &nbsp; https://colab.research.google.com/drive/1iVuRCqI4jyhXfX859uI4jXOd23ffhxem?usp=sharing<br>
 <br>
-I) <br>
+I) &nbsp; **Audio LLM** &nbsp; https://colab.research.google.com/drive/1Xmyis3gkkUvJMo0qRBpzM5e8OhSgKbE7?usp=sharing<br>
 <br>
 <br>
 
